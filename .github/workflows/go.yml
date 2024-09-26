@@ -36,4 +36,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: azraaa/praktikum_popl4:latest
+          tags: azzariyatazraa/azraaa:latest
